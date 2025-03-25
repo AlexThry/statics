@@ -1,4 +1,4 @@
-Product Transmission ID,,Product ID,Product Range,Transmission Geolocation,Locality - Country,"Transmission  Accurracy (meters)
+Product Transmission ID,Timestamp,Product ID,Product Range,Transmission Geolocation,Locality - Country,"Transmission  Accurracy (meters)
 (<=100 meters High Accuracy
 100<>1000 Medium Accuracy
 >1000 Low Accuracy)",Transmission Source,Facility Type,Facility Name (ID),Distance from locatoin to the Facility (meter),Time since last relevant match (hour),Time since last relevant Distribution Center match (hour),Time in same location (hour),Recurrence in the same location,Time since last transmission (hour),Flags
